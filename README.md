@@ -35,4 +35,4 @@ This project was then uploaded to GitHub for version control and portfolio demon
 Overall, this project was a significant learning experience during my internship. It allowed me to practically apply the concepts of frontend development that I had studied, and more importantly, it gave me confidence in designing, structuring, and deploying a real-world project. The Personal Portfolio Webpage stands as a digital representation of my skills, creativity, and growth as a frontend developer.
 
 output
-
+<!-- Uploading "PERSONAL PORTFOLIO WEBPAGE OUTPUT SCREEN.jpg"... -->
